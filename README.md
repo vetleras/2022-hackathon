@@ -17,10 +17,10 @@ Other interesting insights could be how the weather develops in the area, how mu
 - It is **not allowed** to check out the contributions of other groups before the end of the work phase when everyone has handed in their solution.
 
 #### Getting the dataset
-The dataset is located in a seperate repository that can be found here: TODO. The `README.md` file of this repository contains further information about the dataset and what the different data columns represent.
+The dataset is located in a seperate repository that can be found here: https://github.com/sfi-norwai/2022_hackathon_hemsil2_dataset. The `README.md` file of this repository contains further information about the dataset and what the different data columns represent. It also clearly states that the dataset should only be used and distributed within the scope of this hackathon. Please read it carefully.
 
 You can clone it to your local machine by running 
-`git clone <path to repo TODO>`
+`git clone https://github.com/sfi-norwai/2022_hackathon_hemsil2_dataset.git`
 
 Please don't commit the dataset into your working repository. We are not allowed to distribute the dataset in any way outside of the *NorwAI 2022 hackathon*. So in order to make it possible for your to freely share your contribution to the hackathon afterwards, we need to ensure that the dataset itself is not contained in the contribution. 
 
