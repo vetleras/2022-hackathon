@@ -5,11 +5,11 @@ This year we will be looking at a dataset by Hafslund ECO (HEV) about water infl
 The name of the power plant is *Hemsil 2* and it is located near *Hemsedal* in the inland of Norway. 
 
 ## Task
-Your task will be to analyze the dataset and provide the operators of the power plant with useful predictions to control it and plan ahead.
+Your task will be to analyze the dataset and provide the operators of the power plant with useful predictions to control it and plan ahead, or alternatively identify other insights that may prove useful.
 
 Since *Hemsil 2* is a hydro power plant, it is very important to know how much water is currently saved in the storage lake and how much water inflow is to be expected. 
 
-Other interesting insights could be how the weather develops in the area, how much snowfall will happen, or how these influences affect the inflow.
+Other interesting insights could be how the weather develops in the area, how much snowfall will happen, or how these influences affect the inflow. Such insights are not necessarily limited to those that are of interest to the hydro power industry.
 
 ## Getting started
 #### Setting up your working repository
@@ -38,13 +38,19 @@ Getting the dataset
 
 
 ## Criteria for success
-- Modeling accuracy (in case you go  this way)
-- Presentation of results:
-    - Being able to explain model and procedure
-    - Data visualizations
-- Scientific findings such as finding new ways to do predictions on the data, insights about the data itself
+- Developer track
+    - Modeling accuracy (in case you go  this way)
+    - Presentation of results:
+        - Being able to explain model and procedure
+        - Data visualizations
+    - Scientific findings such as finding new ways to do predictions on the data, insights about the data itself
+- Innovation track
+    - Novelty of idea
+    - Presentation of idea:
+        - Being able to argue for the relevancy and possible impact of your idea
+        - Present use-cases and potential stakeholders
 
-### Additional criteria
+### Additional developer criteria
 - Computational efficiency of the solution
 - Software quality
     - Documentation
@@ -53,7 +59,7 @@ Getting the dataset
 - Reproducibility and testability of the solution
 
 ## Discouraged behaviors that might lead to disqualification
-- Your contribution should be **unique** and **original**. You should not just copy a solution from the internet. However, it is of course allowed to get inspiration from how others have solved similar problems of course.
+- Your contribution should be **unique** and **original**. You should not just copy a solution from the internet. However, it is of course allowed to get inspiration from how others have solved similar problems.
 - Getting outside help. The solution **must** come solely from members of the team
 - It is **not allowed** to distribute or share the dataset in any way outside of the NorwAI 2022 hackathon. 
 
