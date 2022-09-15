@@ -7,9 +7,11 @@ The name of the power plant is *Hemsil 2* and it is located near *Hemsedal* in t
 ## Task
 ### Option 1
 Your task is to analyze the dataset and provide the power plant operators with useful predictions to control it and plan ahead, or alternatively identify other insights that may prove helpful.
+
 ### Option 2
 Your task is to identify innovations and business cases for power plant operators or organizations/businesses that would benefit and help with the sustainable operation of power plants if they would have access to such data as in the provided dataset.
 
+### General information
 Since *Hemsil 2* is a hydro power plant, it is very important to know how much water is currently saved in the storage lake and how much water inflow is to be expected. 
 
 Other interesting insights could be how the weather develops in the area, how much snowfall will happen, or how these influences affect the inflow. Such insights are not necessarily limited to those that are of interest to the hydro power industry.
