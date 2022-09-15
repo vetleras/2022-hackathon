@@ -5,11 +5,16 @@ This year we will be looking at a dataset by Hafslund ECO (HEV) about water infl
 The name of the power plant is *Hemsil 2* and it is located near *Hemsedal* in the inland of Norway. 
 
 ## Task
-Your task will be to analyze the dataset and provide the operators of the power plant with useful predictions to control it and plan ahead, or alternatively identify other insights that may prove useful.
+### Option 1
+Your task is to analyze the dataset and provide the power plant operators with useful predictions to control it and plan ahead, or to perform any other modelling that may help in the management of the power plant.
 
+### Option 2
+Your task is to identify innovations and business cases for any relevant stakeholders that either have access to similar data or may benefit from insights derived from this specific dataset.
+
+### General information
 Since *Hemsil 2* is a hydro power plant, it is very important to know how much water is currently saved in the storage lake and how much water inflow is to be expected. 
 
-Other interesting insights could be how the weather develops in the area, how much snowfall will happen, or how these influences affect the inflow. Such insights are not necessarily limited to those that are of interest to the hydro power industry.
+Other interesting insights could be how the weather develops in the area, how much snowfall there will be, or how these influences affect the inflow. Such insights are not necessarily limited to those that are of interest to the hydro power industry.
 
 ## Getting started
 #### Setting up your working repository
