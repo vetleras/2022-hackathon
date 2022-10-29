@@ -1,0 +1,13 @@
+,id,externalId,name,isString,metadata,unit,assetId,isStep,securityCategories,dataSetId,createdTime,lastUpdatedTime
+0,224500448798060,flaevatn_ppt,flaevatn_ppt,False,{'prediction': 'false'},mm,1473462549666207,False,[],1349361264490416,1633594289762,1655361576439
+1,3221784815662866,hbv_hemsil2_inflow_pred_24h,hbv_hemsil2_inflow_pred_24h,False,"{'prediction': 'true', 'horizon': '24h'}",Q/h,1473462549666207,False,[],1349361264490416,1635256682345,1655361577122
+2,3292601046790046,flaevatn_temp,flaevatn_temp,False,{'prediction': 'false'},C,1473462549666207,False,[],1349361264490416,1633594289872,1655361577332
+3,4115876320431373,hbv_hemsil2_snow,hbv_hemsil2_snow,False,{'prediction': 'false'},mm,1473462549666207,False,[],1349361264490416,1633594290012,1655361577753
+4,4584414310641717,hemsil2_inflow_corr,hemsil2_inflow_corr,False,{'prediction': 'false'},Q/s,1473462549666207,False,[],1349361264490416,1633594290171,1655361578086
+5,5073395944557095,hbv_hemsil2_ground_water,hbv_hemsil2_ground_water,False,{'prediction': 'false'},mm,1473462549666207,False,[],1349361264490416,1637235105029,1655361578407
+6,5441222589206595,hbv_hemsil2_soil_water,hbv_hemsil2_soil_water,False,{'prediction': 'false'},mm,1473462549666207,False,[],1349361264490416,1637235105272,1655361578511
+7,5681902222144763,hbv_hemsil2_inflow_pred_48h,hbv_hemsil2_inflow_pred_48h,False,"{'prediction': 'true', 'horizon': '48h'}",m3/s,1473462549666207,False,[],1349361264490416,1637074841560,1655361578626
+8,6344721276076312,hbv_hemsil2_total_water,hbv_hemsil2_total_water,False,{'prediction': 'false'},Mm3,1473462549666207,False,[],1349361264490416,1637660101615,1655361579059
+9,6791408947225135,storeskar_inflow,storeskar_inflow,False,{'prediction': 'false'},Q/h,1473462549666207,False,[],1349361264490416,1635249759064,1655361579164
+10,7097540881814223,storeskar_temp,storeskar_temp,False,{'prediction': 'false'},C,1473462549666207,False,[],1349361264490416,1633594289939,1655361579289
+11,7534051250479481,hbv_hemsil2_snow_cover,hbv_hemsil2_snow_cover,False,{'prediction': 'false'},%,1473462549666207,False,[],1349361264490416,1637235105149,1655361579706
